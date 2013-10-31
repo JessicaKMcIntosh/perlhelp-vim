@@ -1,11 +1,11 @@
 " vim600: set foldmethod=marker:
 " =============================================================================
 " File:         perlhelp.vim (global plugin)
-" Last Changed: 2012-01-10
-" Maintainer:   Lorance Stinson <LoranceStinson+perlhelp@gmail.com>
-" Version:      1.6
+" Last Changed: Thu Oct 31 06:07 PM 2013 EDT
+" Maintainer:   Jessica McIntosh <JessicaKMcIntosh@gmail.com>
+" Version:      1.7
 " License:      Vim License
-" Webite:       http://github.com/LStinson/perlhelp-vim
+" Webite:       https://github.com/JessicaKMcIntosh/perlhelp-vim
 " =============================================================================
 
 " Change Log: {{{1
@@ -47,7 +47,7 @@ endif
 
 let loaded_perlhelp = 1
 
-" Make sure perlhelp is available and executable
+" Make sure perldoc is available and executable
 if exists('perlhelp_prog')
     let s:perlhelp = perlhelp_prog
 else

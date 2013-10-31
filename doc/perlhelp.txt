@@ -1,8 +1,8 @@
 *perlhelp.txt* perldoc interface
 
-last changed:   2007-06-22
-maintainer:     Lorance Stinson <LoranceStinson+perlhelp@gmail.com>
-version:        1.5
+last changed:   Thu Oct 31 06:07 PM 2013 EDT
+maintainer:     Jessica McIntosh <JessicaKMcIntosh@gmail.com>
+version:        1.7
 license:        vim license
 
 ==============================================================================
@@ -94,7 +94,7 @@ nmap <silent> <unique> <Leader>PV <Plug>PerlHelpVarAsk
 3. Bugs                                                 *perlhelp-bugs*
 
 Please contact me with any problems you may experience:
-Lorance Stinson <LoranceStinson+perlhelp@gmail.com>
-http://lorance.freeshell.org/perlhelp/
+Jessica McIntosh <JessicaKMcIntosh@gmail.com>
+https://github.com/JessicaKMcIntosh/perlhelp-vim
 
 vim:tw=78:ft=help
